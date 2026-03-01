@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Lid
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lid\ here.\r\n\ lid\ la\ tapa\ de\ la\ taza\r\n\ @author\ (Mabel\ Bernal,Jeronimo\ Avila\ )\ \r\n\ @version\ (1)\r\n
+comment1.params=cupIndex\ color
+comment1.target=Lid(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ -\ Crea\ una\ tapa\r\n\ @param\ cupIndex\ \u00EDndice\ de\ la\ taza\ a\ la\ que\ pertenece\r\n\ @param\ color\ color\ de\ la\ tapa\ (debe\ ser\ igual\ al\ de\ su\ taza)\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Hace\ visible\ la\ tapa\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Hace\ invisible\ la\ tapa\r\n
+comment4.params=x\ y
+comment4.target=void\ moveTo(int,\ int)
+comment4.text=\r\n\ Mueve\ la\ tapa\ a\ una\ posici\u00F3n\ espec\u00EDfica\r\n
+comment5.params=
+comment5.target=int\ getHeight()
+comment5.text=\r\n\ Retorna\ la\ altura\ de\ la\ tapa\ (siempre\ 1\ cm)\r\n
+comment6.params=
+comment6.target=int\ getCupIndex()
+comment6.text=\r\n\ Retorna\ el\ \u00EDndice\ de\ la\ taza\ a\ la\ que\ pertenece\r\n
+comment7.params=
+comment7.target=java.lang.String\ getColor()
+comment7.text=\r\n\ Retorna\ el\ color\ de\ la\ tapa\r\n
+numComments=8
